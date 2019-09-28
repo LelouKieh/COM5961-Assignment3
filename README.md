@@ -13,4 +13,4 @@ Step 3&4:
 The cleaned data have been imported into my Airtable with the table’s name: Sale Price.
 Here is the link: https://airtable.com/invite/l?inviteId=invQcXjJgTq3Ga1kH&inviteToken=ecfbbc564c21c5b51c9632512899947875d267d07f448162655b1aae04baca5f
 
-A page contained the link was also created, with the name "Assignment3.html".
+A page contained the link was also created, with the name "Assignment3.html".You can find more details about the process in "ScrapData".
