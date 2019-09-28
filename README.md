@@ -7,7 +7,7 @@ Source of the original web pages:
 http://impressionistarts.com/most-expensive-impressionist-paintings.html
 
 Step 2:
-Since the page is poorly designed and it is quite difficult to scrap all the data at one time, I had to scrap the data twice and clean them up separately. Then I combined the two cleaned set together and cleaned all data together. That is why I send three project files. You can trace the steps following this order: Part1-Part2-all.
+Since the page is poorly designed and it is quite difficult to scrap all the data at one time, I had to scrap the data twice and clean them up separately. Then I combined the two cleaned set and cleaned all data together. That is why I upload three project files. You can trace the steps following this order: Part1-Part2-all.
 
 Step 3&4: 
 The cleaned data have been imported into my Airtable with the table’s name: Sale Price.
